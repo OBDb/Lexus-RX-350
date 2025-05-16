@@ -1,0 +1,13 @@
+command_id: 701.709.221627
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '709056216275500'
+  expected_values:
+    LEXUS_TF1_PAN: 113
+- response: 709056216275BE0
+  expected_values:
+    LEXUS_TF1_PAN: 125.375
+- response: '709056216277800'
+  expected_values:
+    LEXUS_TF1_PAN: 176
