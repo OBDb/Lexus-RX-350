@@ -1,0 +1,34 @@
+command_id: 701.709.220103
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7090762010302007A43
+  expected_values:
+    LEXUS_ODO: 31299
+- response: 7090762010302007A59
+  expected_values:
+    LEXUS_ODO: 31321
+- response: 7090762010302007A5A
+  expected_values:
+    LEXUS_ODO: 31322
+- response: 7090762010302007A5B
+  expected_values:
+    LEXUS_ODO: 31323
+- response: 7090762010302007A5C
+  expected_values:
+    LEXUS_ODO: 31324
+- response: 7090762010302007A5D
+  expected_values:
+    LEXUS_ODO: 31325
+- response: 7090762010302007A5E
+  expected_values:
+    LEXUS_ODO: 31326
+- response: 7090762010302007E7E
+  expected_values:
+    LEXUS_ODO: 32382
+- response: '7090762010302007E86'
+  expected_values:
+    LEXUS_ODO: 32390
+- response: '7090762010302007E87'
+  expected_values:
+    LEXUS_ODO: 32391
