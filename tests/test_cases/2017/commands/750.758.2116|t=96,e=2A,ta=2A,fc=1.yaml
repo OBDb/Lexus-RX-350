@@ -1,22 +1,15 @@
 command_id: 750.758.2116|t=96,e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    LEXUS_TT_RL_V3: 24
-    LEXUS_TT_RR_V3: 26
+    LEXUS_TT_RR_V3: 33
   response: |-
-    7582A10076116000040
-    7582A21420000000000
+    7582A10076116000000
+    7582A21490000000000
 - expected_values:
     LEXUS_TT_RL_V3: 31
   response: |-
     7582A10076116000047
     7582A21000000000000
-- expected_values:
-    LEXUS_TT_FR_V3: 29
-    LEXUS_TT_RR_V3: 30
-  response: |-
-    7582A10076116004500
-    7582A21460000000000
 - expected_values:
     LEXUS_TT_FR_V3: 35
     LEXUS_TT_RR_V3: 46
