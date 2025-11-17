@@ -4,8 +4,8 @@ test_cases:
     LEXUS_CAT_T_22: 146.12
   response: 70805621F3F040A
 - expected_values:
-    LEXUS_CAT_T_22: 790.7
-  response: 70805621F3F1207
+    LEXUS_CAT_T_22: 375.44
+  response: 70805621F3F0904
 - expected_values:
     LEXUS_CAT_T_22: 925.88
   response: 70805621F3F14F6
