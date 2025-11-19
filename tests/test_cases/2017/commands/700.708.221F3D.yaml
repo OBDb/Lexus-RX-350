@@ -7,8 +7,8 @@ test_cases:
     LEXUS_CAT_T_21: 1204.16
   response: 70805621F3D1B00
 - expected_values:
-    LEXUS_CAT_T_21: 1337.9
-  response: 70805621F3D1DE7
+    LEXUS_CAT_T_21: 1433.84
+  response: 70805621F3D1FFC
 - expected_values:
     LEXUS_CAT_T_21: 1488.56
   response: 70805621F3D212C
