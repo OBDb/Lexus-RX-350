@@ -7,8 +7,14 @@ test_cases:
     LEXUS_EVAPORATOR_TARGET_TEMP: 1.1
   response: 7CC04614C806E
 - expected_values:
+    LEXUS_EVAPORATOR_TARGET_TEMP: 1.3
+  response: 7CC04614C8082
+- expected_values:
     LEXUS_EVAPORATOR_TARGET_TEMP: 1.7
   response: 7CC04614C80AA
+- expected_values:
+    LEXUS_EVAPORATOR_TARGET_TEMP: 1.9
+  response: 7CC04614C80BE
 - expected_values:
     LEXUS_EVAPORATOR_TARGET_TEMP: 2
   response: 7CC04614C80C8
