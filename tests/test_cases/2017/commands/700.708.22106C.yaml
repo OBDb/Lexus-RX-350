@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEXUS_DIST_SINCE_BAT_DISC: 21983
   response: 7080562106C55DF
+- expected_values:
+    LEXUS_DIST_SINCE_BAT_DISC: 22049
+  response: 7080562106C5621
