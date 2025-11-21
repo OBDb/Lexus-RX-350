@@ -1,11 +1,11 @@
 command_id: 700.708.221002
 test_cases:
 - expected_values:
-    LEXUS_BAT_VOLTAGE_V2: 13.07614
+    LEXUS_BAT_VOLTAGE: 13.07614
   response: 7080562100229D8
 - expected_values:
-    LEXUS_BAT_VOLTAGE_V2: 13.43258
+    LEXUS_BAT_VOLTAGE: 13.43258
   response: 708056210022AFC
 - expected_values:
-    LEXUS_BAT_VOLTAGE_V2: 13.75485
+    LEXUS_BAT_VOLTAGE: 13.75485
   response: 708056210022C04
