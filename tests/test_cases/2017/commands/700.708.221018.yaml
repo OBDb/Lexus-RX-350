@@ -10,5 +10,5 @@ test_cases:
     LEXUS_INJECTOR_PORT: 4.097
   response: '708056210181001'
 - expected_values:
-    LEXUS_INJECTOR_PORT: 10.731
-  response: 7080562101829EB
+    LEXUS_INJECTOR_PORT: 10.53
+  response: '708056210182922'
