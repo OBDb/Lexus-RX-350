@@ -19,6 +19,12 @@ test_cases:
     LEXUS_YAW_RATE_V2: -1
   response: 7B80561067F8000
 - expected_values:
+    LEXUS_YAW_1: 0
+    LEXUS_YAW_2: -8
+    LEXUS_YAW_RATE2: -8
+    LEXUS_YAW_RATE_V2: 0
+  response: 7B80561068078E9
+- expected_values:
     LEXUS_YAW_1: 17
     LEXUS_YAW_2: 5
     LEXUS_YAW_RATE2: 5
