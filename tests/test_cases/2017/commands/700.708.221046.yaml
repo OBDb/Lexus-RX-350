@@ -13,6 +13,9 @@ test_cases:
     LEXUS_COOLING_FAN_DUTY_RATIO: 38
   response: 708046210464C
 - expected_values:
+    LEXUS_COOLING_FAN_DUTY_RATIO: 39.5
+  response: 708046210464F
+- expected_values:
     LEXUS_COOLING_FAN_DUTY_RATIO: 48
   response: '7080462104660'
 - expected_values:
