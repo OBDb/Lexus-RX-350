@@ -15,9 +15,9 @@ test_cases:
 - expected_values:
     LEXUS_FL_ACC: 0
     LEXUS_FR_ACC: 0
-    LEXUS_RL_ACC: 1
+    LEXUS_RL_ACC: 0
     LEXUS_RR_ACC: 255
-  response: 7B80661420000FF01
+  response: 7B80661420000FF00
 - expected_values:
     LEXUS_FL_ACC: 255
     LEXUS_FR_ACC: 0
