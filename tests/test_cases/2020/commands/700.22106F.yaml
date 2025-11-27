@@ -1,0 +1,20 @@
+command_id: 700.22106F
+test_cases:
+- expected_values:
+    LEXUS_INTAKE_VVT_TARGET_ANGLE_B1: 3.57371
+  response: 7080562106F016E
+- expected_values:
+    LEXUS_INTAKE_VVT_TARGET_ANGLE_B1: 3.68112
+  response: 7080562106F0179
+- expected_values:
+    LEXUS_INTAKE_VVT_TARGET_ANGLE_B1: 4.9993
+  response: 7080562106F0200
+- expected_values:
+    LEXUS_INTAKE_VVT_TARGET_ANGLE_B1: 12.28342
+  response: 7080562106F04EA
+- expected_values:
+    LEXUS_INTAKE_VVT_TARGET_ANGLE_B1: 29.99577
+  response: 7080562106F0C00
+- expected_values:
+    LEXUS_INTAKE_VVT_TARGET_ANGLE_B1: 30.99172
+  response: 7080562106F0C66
