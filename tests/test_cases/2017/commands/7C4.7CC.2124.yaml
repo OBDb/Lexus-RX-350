@@ -4,5 +4,5 @@ test_cases:
     LEXUS_SOLAR_D_SIDE: 0
   response: 7CC03612400
 - expected_values:
-    LEXUS_SOLAR_D_SIDE: 62
-  response: 7CC0361243E
+    LEXUS_SOLAR_D_SIDE: 69
+  response: 7CC03612445
