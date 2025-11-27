@@ -1,0 +1,23 @@
+command_id: 7C0.7C8.2123
+test_cases:
+- expected_values:
+    LEXUS_COOLANT_T: 88.5
+  response: 7C8036123B1
+- expected_values:
+    LEXUS_COOLANT_T: 89.5
+  response: 7C8036123B3
+- expected_values:
+    LEXUS_COOLANT_T: 90
+  response: 7C8036123B4
+- expected_values:
+    LEXUS_COOLANT_T: 92
+  response: 7C8036123B8
+- expected_values:
+    LEXUS_COOLANT_T: 93
+  response: 7C8036123BA
+- expected_values:
+    LEXUS_COOLANT_T: 93.5
+  response: 7C8036123BB
+- expected_values:
+    LEXUS_COOLANT_T: 94
+  response: 7C8036123BC
