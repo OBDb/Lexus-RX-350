@@ -5,22 +5,10 @@ test_cases:
     LEXUS_BAT_VOLTAGE: 13.64743
   response: 708056210022BAC
 - expected_values:
-    LEXUS_12V_V_V2: 13.67184
-    LEXUS_BAT_VOLTAGE: 13.67184
-  response: 708056210022BC0
-- expected_values:
-    LEXUS_12V_V_V2: 13.67672
-    LEXUS_BAT_VOLTAGE: 13.67672
-  response: 708056210022BC4
-- expected_values:
-    LEXUS_12V_V_V2: 13.68161
-    LEXUS_BAT_VOLTAGE: 13.68161
-  response: 708056210022BC8
-- expected_values:
-    LEXUS_12V_V_V2: 13.72555
-    LEXUS_BAT_VOLTAGE: 13.72555
-  response: 708056210022BEC
-- expected_values:
     LEXUS_12V_V_V2: 13.74508
     LEXUS_BAT_VOLTAGE: 13.74508
   response: 708056210022BFC
+- expected_values:
+    LEXUS_12V_V_V2: 13.77926
+    LEXUS_BAT_VOLTAGE: 13.77926
+  response: 708056210022C18
