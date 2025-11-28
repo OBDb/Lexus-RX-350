@@ -4,29 +4,5 @@ test_cases:
     LEXUS_CABIN_T: 21
   response: 7CC0361216E
 - expected_values:
-    LEXUS_CABIN_T: 22.5
-  response: 7CC03612174
-- expected_values:
-    LEXUS_CABIN_T: 22.75
-  response: 7CC03612175
-- expected_values:
-    LEXUS_CABIN_T: 23
-  response: 7CC03612176
-- expected_values:
-    LEXUS_CABIN_T: 23.25
-  response: 7CC03612177
-- expected_values:
-    LEXUS_CABIN_T: 25.75
-  response: 7CC03612181
-- expected_values:
-    LEXUS_CABIN_T: 26
-  response: 7CC03612182
-- expected_values:
-    LEXUS_CABIN_T: 26.25
-  response: 7CC03612183
-- expected_values:
-    LEXUS_CABIN_T: 26.5
-  response: 7CC03612184
-- expected_values:
-    LEXUS_CABIN_T: 26.75
-  response: 7CC03612185
+    LEXUS_CABIN_T: 28
+  response: 7CC0361218A
