@@ -1,0 +1,14 @@
+command_id: 7B0.7B8.2105
+test_cases:
+- expected_values:
+    LEXUS_DECEL: 0.07129
+    LEXUS_DECEL2: -0.21388
+  response: |-
+    7B810096105807E04A6
+    7B82100048100000000
+- expected_values:
+    LEXUS_DECEL: 0.07129
+    LEXUS_DECEL2: -0.21388
+  response: |-
+    7B810096105807E04CF
+    7B8210004BC00000000
