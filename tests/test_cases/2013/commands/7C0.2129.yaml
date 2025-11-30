@@ -4,3 +4,7 @@ test_cases:
     LEXUS_FLI_VOL: 7.39762
     LEXUS_FUEL_INPUT: 56
   response: 7C803612938
+- expected_values:
+    LEXUS_FLI_VOL: 7.79392
+    LEXUS_FUEL_INPUT: 59
+  response: 7C80361293B
