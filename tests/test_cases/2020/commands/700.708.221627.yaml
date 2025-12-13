@@ -10,5 +10,5 @@ test_cases:
     LEXUS_ATF_T_PAN_V3: 66.875
   response: 708056216276AE0
 - expected_values:
-    LEXUS_ATF_T_PAN_V3: 70
-  response: '708056216276E00'
+    LEXUS_ATF_T_PAN_V3: 81.875
+  response: '7080562162779E0'
