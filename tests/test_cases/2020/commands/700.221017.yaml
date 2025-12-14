@@ -7,5 +7,5 @@ test_cases:
     LEXUS_INJ_VOL: 4.79969
   response: 708056210173BFF
 - expected_values:
-    LEXUS_INJ_VOL: 6.14375
-  response: 708056210174CCC
+    LEXUS_INJ_VOL: 6.80156
+  response: '708056210175505'

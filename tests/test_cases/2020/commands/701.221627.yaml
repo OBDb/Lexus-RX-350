@@ -1,6 +1,11 @@
 command_id: '701.221627'
 test_cases:
 - expected_values:
+    LEXUS_ATF_T_PAN: 26.25
+    LEXUS_TF1_PAN: 79.25
+    LEXUS_TFP_T: 26.25
+  response: '709056216274240'
+- expected_values:
     LEXUS_ATF_T_PAN: 31.875
     LEXUS_TF1_PAN: 89.375
     LEXUS_TFP_T: 31.875
