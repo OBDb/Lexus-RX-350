@@ -1,20 +1,15 @@
 command_id: '701.221627'
 test_cases:
 - expected_values:
-    LEXUS_ATF_T_PAN: 26.25
-    LEXUS_TF1_PAN: 79.25
-    LEXUS_TFP_T: 26.25
-  response: '709056216274240'
+    LEXUS_ATF_T_PAN: 10
+    LEXUS_TF1_PAN: 50
+    LEXUS_TFP_T: 10
+  response: '709056216273200'
 - expected_values:
-    LEXUS_ATF_T_PAN: 26.875
-    LEXUS_TF1_PAN: 80.375
-    LEXUS_TFP_T: 26.875
-  response: '7090562162742E0'
-- expected_values:
-    LEXUS_ATF_T_PAN: 35
-    LEXUS_TF1_PAN: 95
-    LEXUS_TFP_T: 35
-  response: 709056216274B00
+    LEXUS_ATF_T_PAN: 16.875
+    LEXUS_TF1_PAN: 62.375
+    LEXUS_TFP_T: 16.875
+  response: '7090562162738E0'
 - expected_values:
     LEXUS_ATF_T_PAN: 93.125
     LEXUS_TF1_PAN: 199.625
