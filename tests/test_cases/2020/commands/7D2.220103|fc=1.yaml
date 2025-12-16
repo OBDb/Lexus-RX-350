@@ -10,5 +10,5 @@ test_cases:
     LEXUS_ODO_V2: 35651
   response: 7090762010302008B43
 - expected_values:
-    LEXUS_ODO_V2: 35809
-  response: 7090762010302008BE1
+    LEXUS_ODO_V2: 35821
+  response: 7090762010302008BED
