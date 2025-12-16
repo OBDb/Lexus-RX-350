@@ -8,8 +8,8 @@ test_cases:
 - expected_values:
     LEXUS_ACCEL_PEDAL: 0
   response: |-
-    708100A621059345C29
-    7082151050F00000000
+    708100A621059335B29
+    7082152044F00000000
 - expected_values:
     LEXUS_ACCEL_PEDAL: 0
   response: |-
