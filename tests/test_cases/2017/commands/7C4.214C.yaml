@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEXUS_EVAP_TARGET_T: 2.6
   response: 7CC04614C8104
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 5.6
+  response: 7CC04614C8230
