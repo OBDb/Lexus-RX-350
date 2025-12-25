@@ -5,6 +5,6 @@ test_cases:
     LEXUS_VSS_V2: 0
   response: 7C803612100
 - expected_values:
-    LEXUS_VSS_7C0: 138
-    LEXUS_VSS_V2: 138
-  response: 7C80361218A
+    LEXUS_VSS_7C0: 145
+    LEXUS_VSS_V2: 145
+  response: 7C803612191
