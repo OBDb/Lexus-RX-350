@@ -1,0 +1,8 @@
+command_id: 700.708.221046
+test_cases:
+- expected_values:
+    LEXUS_COOLING_FAN_DUTY_RATIO: 43.5
+  response: '7080462104657'
+- expected_values:
+    LEXUS_COOLING_FAN_DUTY_RATIO: 50
+  response: '7080462104664'
