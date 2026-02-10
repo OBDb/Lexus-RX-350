@@ -1,0 +1,11 @@
+command_id: 7C4.7CC.2153
+test_cases:
+- expected_values:
+    LEXUS_REGULATOR_P: 0.99961
+  response: 7CC03615363
+- expected_values:
+    LEXUS_REGULATOR_P: 1.02903
+  response: 7CC03615365
+- expected_values:
+    LEXUS_REGULATOR_P: 1.08787
+  response: 7CC03615369
