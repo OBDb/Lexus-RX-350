@@ -1,0 +1,7 @@
+command_id: 7D2.708.2210A2
+test_cases:
+- expected_values:
+    LEXUS_RM_TQ_REQ: 1907
+  response: |-
+    70810086210A2877378
+    7082178780000000000
