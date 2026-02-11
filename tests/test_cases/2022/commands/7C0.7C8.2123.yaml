@@ -1,0 +1,10 @@
+command_id: 7C0.7C8.2123
+test_cases:
+- expected_values:
+    LEXUS_COOLANT_T: 95
+    LEXUS_ECT_7C0: 95
+  response: 7C8036123BE
+- expected_values:
+    LEXUS_COOLANT_T: 95.5
+    LEXUS_ECT_7C0: 95.5
+  response: 7C8036123BF
