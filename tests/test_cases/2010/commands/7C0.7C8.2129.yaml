@@ -1,0 +1,26 @@
+command_id: 7C0.7C8.2129
+test_cases:
+- expected_values:
+    LEXUS_FLI_VOL: 4.49141
+    LEXUS_FUEL_INPUT: 34
+  response: 7C803612922
+- expected_values:
+    LEXUS_FLI_VOL: 4.88771
+    LEXUS_FUEL_INPUT: 37
+  response: 7C803612925
+- expected_values:
+    LEXUS_FLI_VOL: 5.01982
+    LEXUS_FUEL_INPUT: 38
+  response: 7C803612926
+- expected_values:
+    LEXUS_FLI_VOL: 5.15192
+    LEXUS_FUEL_INPUT: 39
+  response: 7C803612927
+- expected_values:
+    LEXUS_FLI_VOL: 7.52972
+    LEXUS_FUEL_INPUT: 57
+  response: 7C803612939
+- expected_values:
+    LEXUS_FLI_VOL: 7.66182
+    LEXUS_FUEL_INPUT: 58
+  response: 7C80361293A
