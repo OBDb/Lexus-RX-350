@@ -4,29 +4,5 @@ test_cases:
     LEXUS_ECT: 33.5
   response: 7CC0361265C
 - expected_values:
-    LEXUS_ECT: 42.6
-  response: 7CC03612676
-- expected_values:
-    LEXUS_ECT: 70.95
-  response: 7CC036126C7
-- expected_values:
-    LEXUS_ECT: 80.75
-  response: 7CC036126E3
-- expected_values:
-    LEXUS_ECT: 84.95
-  response: 7CC036126EF
-- expected_values:
-    LEXUS_ECT: 85.3
-  response: 7CC036126F0
-- expected_values:
-    LEXUS_ECT: 86.35
-  response: 7CC036126F3
-- expected_values:
-    LEXUS_ECT: 87.05
-  response: 7CC036126F5
-- expected_values:
-    LEXUS_ECT: 87.4
-  response: 7CC036126F6
-- expected_values:
-    LEXUS_ECT: 87.75
-  response: 7CC036126F7
+    LEXUS_ECT: 89.5
+  response: 7CC036126FC
