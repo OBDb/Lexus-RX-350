@@ -1,6 +1,9 @@
 command_id: 7C4.7CC.2129
 test_cases:
 - expected_values:
+    LEXUS_T_DRIVER: 32
+  response: 7CC03612920
+- expected_values:
     LEXUS_T_DRIVER: 41
   response: 7CC03612929
 - expected_values:
@@ -9,3 +12,6 @@ test_cases:
 - expected_values:
     LEXUS_T_DRIVER: 47
   response: 7CC0361292F
+- expected_values:
+    LEXUS_T_DRIVER: 50
+  response: 7CC03612932
