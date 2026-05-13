@@ -4,8 +4,5 @@ test_cases:
     LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 0
   response: 7CC03613C00
 - expected_values:
-    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 1
-  response: 7CC03613C01
-- expected_values:
-    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 6
-  response: 7CC03613C06
+    LEXUS_BLOWER_MOTOR_SPEED_LEVEL: 15
+  response: 7CC03613C0F
