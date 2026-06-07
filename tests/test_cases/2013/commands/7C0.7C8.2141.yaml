@@ -24,3 +24,9 @@ test_cases:
 - expected_values:
     LEXUS_OIL_CHANGE_ODO: 5632.704
   response: 7C803614123
+- expected_values:
+    LEXUS_OIL_CHANGE_ODO: 5793.6384
+  response: 7C803614124
+- expected_values:
+    LEXUS_OIL_CHANGE_ODO: 5954.5728
+  response: 7C803614125
