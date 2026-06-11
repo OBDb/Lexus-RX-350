@@ -2,28 +2,13 @@ command_id: 780.788.2104
 test_cases:
 - expected_values:
     LEXUS_BUCKLE_RS: 2
-  response: '78806610401050202'
+  response: '78806610401020102'
+- expected_values:
+    LEXUS_BUCKLE_RS: 2
+  response: '78806610401050102'
 - expected_values:
     LEXUS_BUCKLE_RS: 1
   response: '78806610402020101'
-- expected_values:
-    LEXUS_BUCKLE_RS: 2
-  response: '78806610402020102'
-- expected_values:
-    LEXUS_BUCKLE_RS: 1
-  response: '78806610402040101'
-- expected_values:
-    LEXUS_BUCKLE_RS: 2
-  response: '78806610402040102'
-- expected_values:
-    LEXUS_BUCKLE_RS: 1
-  response: '78806610402040201'
-- expected_values:
-    LEXUS_BUCKLE_RS: 2
-  response: '78806610402040202'
-- expected_values:
-    LEXUS_BUCKLE_RS: 2
-  response: '78806610402050202'
 - expected_values:
     LEXUS_BUCKLE_RS: 255
   response: 788066104FF01FFFF
