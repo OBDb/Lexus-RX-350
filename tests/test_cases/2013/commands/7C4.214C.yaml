@@ -2,6 +2,17 @@ command_id: 7C4.214C
 test_cases:
 - expected_values:
     LEXUS_EVAP_TARGET_T: 1
+  response: |-
+    7C603A81384
+    7CC04614C8064
+    7C603A81384
+    7C603A81384
+    7C603A81181
+    7CE1008E81181044100
+    7C6300100
+    7CE2105080000000000
+- expected_values:
+    LEXUS_EVAP_TARGET_T: 1
   response: 7CC04614C8064
 - expected_values:
     LEXUS_EVAP_TARGET_T: 1
