@@ -7,4 +7,8 @@ test_cases:
 - expected_values:
     LEXUS_PARKING_BRAKE_SW: 0
     LEXUS_STOP_LIGHT_SW: 1
+  response: 7B804611F8000
+- expected_values:
+    LEXUS_PARKING_BRAKE_SW: 0
+    LEXUS_STOP_LIGHT_SW: 1
   response: 7B804611F8020
