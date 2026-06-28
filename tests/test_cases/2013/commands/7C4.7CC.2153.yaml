@@ -4,5 +4,5 @@ test_cases:
     LEXUS_REGULATOR_P: 0.35237
   response: 7CC03615337
 - expected_values:
-    LEXUS_REGULATOR_P: 1.45562
-  response: 7CC03615382
+    LEXUS_REGULATOR_P: 1.52917
+  response: 7CC03615387
