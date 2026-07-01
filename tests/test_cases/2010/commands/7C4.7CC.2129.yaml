@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEXUS_T_DRIVER: 38
   response: 7CC03612926
+- expected_values:
+    LEXUS_T_DRIVER: 41
+  response: 7CC03612929
