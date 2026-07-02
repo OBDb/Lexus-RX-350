@@ -4,5 +4,5 @@ test_cases:
     LEXUS_AAT_7C4: 5.05
   response: 7CC03612251
 - expected_values:
-    LEXUS_AAT_7C4: 23.25
-  response: 7CC03612285
+    LEXUS_AAT_7C4: 36.9
+  response: 7CC036122AC
